@@ -5,9 +5,9 @@ This is Depot Bookprog learn ruby on rails.
 Things you may want to cover:
 
 * Ruby version
-Ruby 2.5.1
+2.5.1
 * Rails version
-Rails 5.0.7.1
+5.0.7.1
 * Database creation
 SQLlite
 
